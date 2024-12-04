@@ -4,7 +4,7 @@ This assignment was done as part of the COL333 Course Requirements. The assignme
 
 ## Performance Statistics on Test Set
 
-- **_Part 1_** : The model achieved an accuracy of `92.41%` on the test dataset. The report contains details regarding the architecture of the neural network. Techniques like Batch Normalisation, Data Augmentation, Adam Optimiser, Cosine Annealing Learning Rate Scheduling, etc. were used to improve accuracy.
+- **_Part 1_** : The model achieved an accuracy of `92.77%` on the test dataset. The report contains details regarding the architecture of the neural network. Techniques like Batch Normalisation, Data Augmentation, Adam Optimiser, Cosine Annealing Learning Rate Scheduling, etc. were used to improve accuracy.
 
 - **_Part 2_** : The model achieved an accuracy of `75.75%` and the structural similarity score of `0.828`. The report contains details regarding the implementation of the variation autoencoder (VAE).
 
